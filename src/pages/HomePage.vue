@@ -240,6 +240,13 @@
     border-radius: 50%; /* Set border-radius to 50% to make the image circular */
 }
 
+@media (max-width: 767px) {
+  .circular-image {
+    width: 100%;
+    height: auto;
+  }
+}
+
 
 </style>
   
